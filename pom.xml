@@ -10,6 +10,7 @@
   <groupId>com.tedee</groupId>
   <artifactId>android-ble-sdk</artifactId>
   <version>0.0.1</version>
+  <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
